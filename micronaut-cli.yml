@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: aplikasi.sederhana
+---
+testFramework: junit
+sourceLanguage: java
