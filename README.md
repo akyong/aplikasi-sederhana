@@ -1,4 +1,4 @@
-#<b>Aplikasi sederhana - Micronaut</b>
+# Aplikasi sederhana - Micronaut
 
 Silakan download jika anda butuh.
 aplikasi ini adalah aplikasi simple yang dibuat untuk belajar seperti postingan saya di 
